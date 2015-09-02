@@ -12,7 +12,7 @@ Prescaler ÷16
 
 ------------------------------------------------------------------
 Function: 
-Recieve input from serial connection and transmit back
+Recieve input (Rx) from serial connection and transmit back (Tx).  
 
 Info:
 Basic assembly code written for Keil (IDE-Version: µVision V5.15).
